@@ -1,0 +1,6 @@
+{
+  "name": "SHEZI × MANI AI",
+  "description": "Advanced AI Assistant Automation with Make.com webhook workflows, Urdu, Pashto & English intelligence, voice transcription, natural speech synthesis, and STEM reasoning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
